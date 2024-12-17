@@ -1,0 +1,8 @@
+# Ignore node_modules folder (untuk frontend)
+frontend/node_modules/
+
+# Ignore vendor folder (untuk backend)
+backend/vendor/
+
+# Ignore environment files
+.env
